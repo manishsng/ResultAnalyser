@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(
+void main() { runApp(
       MaterialApp(
-        home: Center(
-          child: Text('New Beginnings'),
-        ),
+        home: Scaffold(
+          appBar: AppBar(
+            title: Text("IPU Result Analyser"),
+          ) ,)
       ),
     );
+}
