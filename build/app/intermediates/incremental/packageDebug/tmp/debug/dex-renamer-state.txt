@@ -1,0 +1,4 @@
+#Sun Oct 06 15:54:50 IST 2019
+base.0=/home/jagrit/AndroidStudioProjects/ipu_results/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
